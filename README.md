@@ -1,5 +1,6 @@
-# DebugDash22
+# DebugDash22 Project
 
-AIM: Emergency Medicine Delivery\n
-Technical Support:Debanjan Malakar, Rajorshi Mandal, Satwik Basu\n
+AIM: Emergency Medicine Delivery
+
+Technical Support: Debanjan Malakar, Rajorshi Mandal, Satwik Basu
 Content Provider: Ankita Naskar, Abir Paul
